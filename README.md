@@ -209,7 +209,4 @@ This project is available for educational and research purposes. Please ensure c
 For questions or suggestions, please open an issue in the repository.
 
 ---
-
-**Note**: This project was developed for video-text retrieval research and demonstrates the effectiveness of contrastive fine-tuning for cross-modal alignment tasks.
----
 **Grade**: 93/100
